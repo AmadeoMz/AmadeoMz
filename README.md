@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://img.shields.io/badge/<Scripts>-<Brewery>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![www.bardagon.com](https://img.shields.io/badge/<Scripts>-<Brewery>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
