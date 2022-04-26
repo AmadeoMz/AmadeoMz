@@ -1,4 +1,7 @@
 ### Hi there 👋
+I am Amadeo Mendez (he/him), and I'm currently developing my DataScience skills. 🌱
+I have almost one year of experience as an independent analyst.
+I made some [scripts](https://github.com/AmadeoMz/Scripts_for_sales_control_in_my_brewery) that help me to control the sales of my side hustle and hobbie which is a small brewery. 
 
 <!--
 **AmadeoMz/AmadeoMz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://www.bardagon.com/<Scripts>-<Brewery>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
