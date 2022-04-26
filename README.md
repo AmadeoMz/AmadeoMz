@@ -1,6 +1,8 @@
 ### Hi there 👋
 I am Amadeo Mendez (he/him), and I'm currently developing my DataScience skills. 🌱
+
 I have almost one year of experience as an independent analyst.
+
 I made some [scripts](https://github.com/AmadeoMz/Scripts_for_sales_control_in_my_brewery) that help me to control the sales of my side hustle and hobbie which is a small brewery. 
 
 <!--
