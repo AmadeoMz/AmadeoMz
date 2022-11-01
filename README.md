@@ -1,7 +1,7 @@
 ### Hi there 👋
-I am Amadeo Mendez (he/him), and I'm currently developing my DataScience skills 🌱. I have almost one year of experience as an independent analyst, and I made some [scripts](https://github.com/AmadeoMz/Scripts_for_sales_control_in_my_brewery) that help me to control the sales of my side hustle and hobbie which is a small brewery.
+I am Amadeo Mendez (he/him), and I'm still developing my data driven skills 🌱. I have almost one year of experience as an independent analyst, and I made some [scripts](https://github.com/AmadeoMz/Scripts_for_sales_control_in_my_brewery) that help me to control the sales of my side hustle and hobbie which is a small brewery.
 
-I'm a physicist but I directed my way to data science, so I'm currently looking for a Jr. position to add value as a teammate, and enhance my technical skills. 
+I joined in my current job in the Data Analyst role, in which I performed ETL processes monitoring and automatization by using the Dataiku Python API (I'm an APIs enthusiast). Today I'm focus on working with Azure Data Factory.  
 
 <!--
 **AmadeoMz/AmadeoMz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
