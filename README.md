@@ -1,6 +1,8 @@
 ### Hi there 👋
 I am Amadeo Mendez (he/him), a MSc. in physics with experience in Python (Numpy, Pandas, Matplotlib, Scikit Learn) and
-SQL. I am results-driven and enthusiastic about order and good code readability. My years of experience as a teacher have allowed me to develop strong communication
+SQL.
+
+I am results-driven and enthusiastic about order and good code readability. My years of experience as a teacher have allowed me to develop strong communication
 skills with both technical and non-technical audiences. I have an outstanding attention to detail and analytical thinking, prioritizing efficiency and practicality before
 aesthetics without losing creativity and disruptive thinking along the way.
 
