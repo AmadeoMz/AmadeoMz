@@ -1,11 +1,8 @@
 ### Hi there 👋
-I am Amadeo Mendez (he/him), a MSc. in physics with almost one year of experience working with large amount of data. 
-
-I joined in my current job in the Data Analyst role, in which I performed ETL processes monitoring and automatization by using the Dataiku Python API (I'm an APIs enthusiast). Today I'm mainly working with Azure cloud in a Data Engineer role (Azure Data Factory, Azure Function App, Synapse Analytics, etc.)
-
-As an independent analyst I made some [scripts](https://github.com/AmadeoMz/Scripts_for_sales_control_in_my_brewery) that help me to control the sales of my side hustle and hobbie which is a small brewery.
-
-I keep myself studying every day, trying to improve my technique and expanding my range of skills.
+I am Amadeo Mendez (he/him), a MSc. in physics with experience in Python (Numpy, Pandas, Matplotlib, Scikit Learn) and
+SQL. I am results-driven and enthusiastic about order and good code readability. My years of experience as a teacher have allowed me to develop strong communication
+skills with both technical and non-technical audiences. I have an outstanding attention to detail and analytical thinking, prioritizing efficiency and practicality before
+aesthetics without losing creativity and disruptive thinking along the way.
 
 <!--
 **AmadeoMz/AmadeoMz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
